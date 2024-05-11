@@ -1,0 +1,40 @@
+Title: Classes of Eldoria
+
+1. Warrior:
+Description: Warriors are masters of combat, proficient with various weapons and armor. They are the frontline of any battle, capable of withstanding heavy blows and protecting their allies.
+Abilities:
+- Shield Guard: Warriors can use their shield to protect allies, reducing incoming damage.
+- Berserker Rage: Temporarily increases damage output at the cost of defense.
+
+2. Mage:
+Description: Mages wield arcane powers to cast spells with devastating effects. They are scholars of the mystical arts, capable of altering the fabric of reality.
+Abilities:
+- Fireball: Casts a powerful fireball that explodes on impact, dealing damage to multiple enemies.
+- Mana Shield: Creates a magical shield that absorbs incoming damage until mana is depleted.
+
+3. Rogue:
+Description: Rogues are stealthy and cunning, using their skills to outmaneuver opponents and deliver deadly strikes. They excel in stealth, theft, and assassination.
+Abilities:
+- Backstab: Deals massive damage to an enemy when attacking from behind.
+- Stealth: Temporarily becomes invisible, avoiding detection and increasing critical hit chances.
+
+4. Cleric:
+Description: Clerics are holy warriors who serve the divine powers, wielding magic to heal and protect their allies while smiting their foes.
+Abilities:
+- Heal: Restores health to the cleric or an ally.
+- Divine Wrath: Calls upon divine power to smite enemies, dealing holy damage.
+
+5. Paladin:
+Description: Paladins are righteous and brave, combining elements of warriors and clerics. They fight to uphold justice, wielding both weapon and holy magic.
+Abilities:
+- Holy Strike: Infuses their weapon with holy energy, dealing extra damage and possibly stunning the enemy.
+- Blessing: Casts a protective blessing on an ally, increasing their defense and healing them over time.
+
+6. Ranger:
+Description: Rangers are masters of wilderness survival and ranged combat. They are adept at tracking, hunting, and setting traps, with a deep connection to nature.
+Abilities:
+- Arrow Volley: Shoots multiple arrows in a rapid succession at different targets.
+- Animal Companion: Summons a wild animal to assist in combat or scouting.
+
+Conclusion:
+Each class in Eldoria offers a unique set of skills and play styles. Players should choose their class based on their preferred approach to combat and exploration in the world of Dungeon's Fortress. The synergies between different classes can be powerful, encouraging cooperative play and strategic team building.

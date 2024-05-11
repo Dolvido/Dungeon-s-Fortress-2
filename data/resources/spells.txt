@@ -1,0 +1,25 @@
+# Offensive Spells
+Fireball | A ball of fire that explodes on impact, dealing damage to enemies. | Damage: 20, Mana Cost: 15
+Lightning Bolt | A bolt of lightning that strikes an enemy, dealing electrical damage. | Damage: 25, Mana Cost: 20
+Ice Shard | A shard of ice that pierces through enemies, dealing cold damage. | Damage: 18, Mana Cost: 12
+Acid Splash | A splash of corrosive acid that damages enemies over time. | Damage: 10 per turn, Duration: 3 turns, Mana Cost: 15
+Poison Cloud | A cloud of poisonous gas that damages and slows enemies. | Damage: 8 per turn, Slow: 20%, Duration: 4 turns, Mana Cost: 18
+
+# Defensive Spells
+Healing Touch | A spell that heals the caster or an ally. | Healing: 30, Mana Cost: 20
+Shield of Faith | A magical shield that absorbs incoming damage. | Shield Strength: 50, Duration: 3 turns, Mana Cost: 25
+Invisibility | A spell that turns the caster invisible for a short duration. | Duration: 5 turns, Mana Cost: 30
+Stoneskin | A spell that hardens the caster's skin, increasing defense. | Defense Bonus: 10, Duration: 4 turns, Mana Cost: 22
+Blink | A short-range teleportation spell that allows the caster to quickly escape. | Range: 5 meters, Mana Cost: 15
+
+# Utility Spells
+Light | A spell that creates a ball of light to illuminate dark areas. | Radius: 10 meters, Duration: 10 minutes, Mana Cost: 5
+Detect Magic | A spell that reveals the presence of magical items or creatures. | Range: 20 meters, Mana Cost: 10
+Charm Person | A spell that charms a humanoid target, making them friendly. | Duration: 5 minutes, Mana Cost: 20
+Telekinesis | A spell that allows the caster to move objects with their mind. | Weight Limit: 50 pounds, Range: 10 meters, Mana Cost: 15
+Comprehend Languages | A spell that allows the caster to understand unfamiliar languages. | Duration: 10 minutes, Mana Cost: 12
+
+# Summoning Spells
+Summon Wolf | Summons a wolf to fight alongside the caster. | Wolf Health: 50, Wolf Damage: 10, Duration: 5 turns, Mana Cost: 25
+Summon Elemental | Summons an elemental creature based on the chosen element (fire, water, air, earth). | Elemental Health: 80, Elemental Damage: 15, Duration: 4 turns, Mana Cost: 35
+Summon Skeleton | Summons a skeletal minion to fight for the caster. | Skeleton Health: 40, Skeleton Damage: 12, Duration: 6 turns, Mana Cost: 22

@@ -1,0 +1,29 @@
+# Weapons
+Wooden Sword | A basic sword made of wood. | Attack: 5
+Iron Sword | A sturdy sword forged from iron. | Attack: 10
+Steel Sword | A well-crafted sword made of steel. | Attack: 15
+Elven Bow | A beautifully crafted bow of elven design. | Attack: 12
+Mage Staff | A wooden staff imbued with magical energy. | Attack: 8, Magic Attack: 10
+Dwarven Axe | A heavy axe favored by dwarven warriors. | Attack: 18
+Rogue Dagger | A sharp dagger suitable for quick strikes. | Attack: 8
+Warhammer | A massive hammer used for crushing blows. | Attack: 20
+
+# Armor
+Leather Armor | Light armor made of leather. | Defense: 5
+Iron Armor | Sturdy armor crafted from iron. | Defense: 10
+Steel Armor | Heavy armor forged from steel. | Defense: 15
+Mage Robes | Enchanted robes that offer protection and enhance magic. | Defense: 8, Magic Defense: 12
+Elven Cloak | A lightweight cloak that provides concealment. | Defense: 6, Stealth: 5
+Dwarven Helmet | A durable helmet of dwarven make. | Defense: 8
+Rogue Armor | Flexible armor designed for agility. | Defense: 10, Agility: 5
+Shield | A wooden shield for blocking attacks. | Defense: 10
+
+# Accessories
+Amulet of Health | An amulet that increases the wearer's health. | Health Bonus: 20
+Ring of Protection | A ring that enhances the wearer's defense. | Defense Bonus: 5
+Cloak of Invisibility | A magical cloak that grants temporary invisibility. | Stealth Bonus: 15
+Boots of Speed | Enchanted boots that increase movement speed. | Speed Bonus: 10
+Gauntlets of Strength | Gauntlets that boost the wearer's strength. | Strength Bonus: 8
+Pendant of Mana | A pendant that increases the wearer's mana pool. | Mana Bonus: 25
+Belt of Agility | A belt that enhances the wearer's agility. | Agility Bonus: 8
+Helm of Wisdom | A helm that increases the wearer's wisdom. | Wisdom Bonus: 10

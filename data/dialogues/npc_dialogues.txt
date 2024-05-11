@@ -1,0 +1,35 @@
+# Innkeeper
+greeting: Welcome to the Rusty Tankard, adventurer! What brings you to our humble inn?
+farewell: Safe travels, adventurer. May your journey be filled with glory and fortune!
+quest_offer: I've heard rumors of a hidden treasure deep within the nearby dungeons. If you're brave enough, I can mark its location on your map.
+quest_complete: Congratulations on finding the treasure! Your bravery is truly remarkable. Here's your well-deserved reward.
+
+# Blacksmith
+greeting: Greetings, warrior! Welcome to my forge. How can I assist you today?
+farewell: May your weapons strike true and your armor never falter, adventurer!
+shop_offer: Take a look at my finest wares. I have swords, axes, and armor fit for any battle.
+shop_complete: A wise choice, adventurer. May your new equipment serve you well in the battles to come.
+
+# Mage
+greeting: Ah, a fellow seeker of knowledge. Welcome to my tower, adventurer.
+farewell: Go forth and wield your magic wisely, for with great power comes great responsibility.
+quest_offer: I sense a disturbance in the magical ley lines. If you investigate and report back, I shall reward you handsomely.
+quest_complete: Your findings are invaluable! Take this ancient tome as a token of my gratitude. May it aid you in your arcane pursuits.
+
+# Rogue
+greeting: Well, well, what do we have here? A new face in town, eh?
+farewell: Watch your back out there, friend. The shadows can be both your ally and your enemy.
+quest_offer: I've got a little job that requires someone with your particular set of skills. Interested?
+quest_complete: Nicely done! You've got the makings of a true shadow walker. Here's your cut of the loot.
+
+# Merchant
+greeting: Ah, a customer! Welcome to my humble shop, traveler. What catches your eye?
+farewell: Thank you for your patronage! Come back anytime, my shop is always open for a savvy adventurer like yourself.
+shop_offer: Feast your eyes on my wares, from the exotic to the essential. I have something for every need and budget.
+shop_complete: Excellent choice, my friend! You won't find better quality anywhere else in the realm.
+
+# Guard
+greeting: Halt! State your business in this city, adventurer.
+farewell: Keep the peace, citizen. Remember, the city watch is always vigilant.
+quest_offer: The city has been plagued by a group of thieves. If you can bring them to justice, the guard will reward you.
+quest_complete: Well done, adventurer. You've proven yourself a true friend of the city. Accept this reward as a token of our gratitude.

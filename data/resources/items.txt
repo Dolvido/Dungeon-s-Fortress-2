@@ -1,0 +1,29 @@
+# Basic Items
+Gold Coin | A shiny gold coin, the standard currency in the realm.
+Torch | A wooden torch that provides light in dark dungeons.
+Rope | A coil of sturdy rope, useful for climbing and exploration.
+Healing Potion | A vial containing a red liquid that restores health when consumed.
+Mana Potion | A vial containing a blue liquid that replenishes mana when consumed.
+Lockpick | A small tool used for picking locks and opening chests.
+Rations | A pack of dried food and water, essential for long journeys.
+
+# Crafting Materials
+Iron Ore | A raw material used for crafting iron weapons and armor.
+Wood | A versatile resource used for crafting bows, staves, and other wooden items.
+Leather | A soft and durable material used for crafting light armor and accessories.
+Gemstone | A precious stone that can be used for enchanting or trading.
+Herb | A plant with medicinal properties, used for creating potions and remedies.
+
+# Quest Items
+Ancient Scroll | A mysterious scroll containing ancient knowledge and secrets.
+Ornate Key | A beautifully crafted key that unlocks a specific door or chest.
+Sigil of Power | A magical sigil that grants the wielder enhanced abilities.
+Artifact Fragment | A piece of a legendary artifact, sought after by many.
+Royal Seal | An official seal bestowed by the kingdom, granting special privileges.
+
+# Miscellaneous
+Storybook | A collection of short stories and tales from the realm.
+Map | A detailed map of a specific area or dungeon.
+Compass | A navigational tool that always points north.
+Musical Instrument | A portable instrument that can be played to entertain or distract.
+Puzzle Box | An intricate box that requires solving a puzzle to open.

@@ -1,0 +1,70 @@
+# Character Creation
+race_choice: Select your race:
+1. Human
+2. Elf
+3. Dwarf
+
+class_choice: Select your class:
+1. Warrior
+2. Mage
+3. Rogue
+
+attribute_allocation: Allocate your attribute points:
+- Strength: [current_points]/[total_points]
+- Dexterity: [current_points]/[total_points]
+- Intelligence: [current_points]/[total_points]
+- Constitution: [current_points]/[total_points]
+
+# Dialogue Choices
+innkeeper_quest_accept: Accept the innkeeper's quest?
+1. Yes, I'll search for the hidden treasure.
+2. No, I have other matters to attend to.
+
+blacksmith_shop_browse: What would you like to browse?
+1. Weapons
+2. Armor
+3. Accessories
+4. Exit
+
+mage_quest_investigate: How do you want to investigate the magical disturbance?
+1. Consult ancient tomes in the library.
+2. Gather information from local wizards.
+3. Venture into the nearby enchanted forest.
+
+rogue_quest_approach: How do you approach the thieves' hideout?
+1. Sneak in through the back entrance.
+2. Disguise yourself and blend in with the crowd.
+3. Create a diversion and slip inside during the chaos.
+
+merchant_shop_haggle: Do you want to haggle with the merchant?
+1. Yes, let's negotiate a better price.
+2. No, I'll pay the asking price.
+
+guard_quest_lead: How do you want to pursue the thieves?
+1. Patrol the streets and gather clues.
+2. Set up a trap to lure them out.
+3. Infiltrate their ranks and gather intel from within.
+
+# Gameplay Choices
+explore_dungeon: What do you do next?
+1. Venture deeper into the dungeon.
+2. Search the room for treasure and clues.
+3. Rest and recover.
+4. Return to the surface.
+
+combat_action: Choose your action:
+1. Attack with your weapon.
+2. Cast a spell.
+3. Use a special ability.
+4. Attempt to flee.
+
+puzzle_solve: How do you approach the puzzle?
+1. Examine the symbols and look for patterns.
+2. Consult your knowledge of ancient languages.
+3. Trial and error.
+
+resource_allocation: How do you want to allocate your resources?
+1. Upgrade your weapon.
+2. Enhance your armor.
+3. Learn a new skill or spell.
+4. Save for later.

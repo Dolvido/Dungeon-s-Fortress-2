@@ -1,0 +1,34 @@
+Title: Races of Eldoria
+
+1. Humans:
+Description: Humans in Eldoria are diverse and adaptable, known for their resilience and tenacity. They hail from various kingdoms and cultures, each with its own traditions and technologies. Humans are quick learners, making them versatile in many professions.
+Abilities:
+- Adaptability: Humans gain a bonus to any two skills of their choice, reflecting their versatile nature.
+- Resourcefulness: Humans can recover more quickly from setbacks, reducing the cooldowns of their abilities.
+
+2. Elves:
+Description: Elves are ancient beings connected deeply with nature and magic. They live in secluded, verdant realms, preferring the tranquility of ancient forests. Elves are skilled in archery and magic, known for their longevity and elegant diplomacy.
+Abilities:
+- Keen Senses: Elves have an enhanced perception, allowing them to detect hidden traps and secrets.
+- Natural Affinity: Elves receive bonuses to magic-related skills and start with an additional spell.
+
+3. Dwarves:
+Description: Dwarves are stout and strong, renowned for their craftsmanship and mining. They dwell in mountain fortresses, surrounded by stone and metal. Known for their durability, dwarves excel in melee combat and engineering.
+Abilities:
+- Stone's Endurance: Dwarves have increased resistance to physical damage, reflecting their tough nature.
+- Master Craftsman: Dwarves gain bonuses when crafting items or enhancing equipment.
+
+4. Orcs:
+Description: Orcs are a formidable warrior race, often misunderstood by others. They live in tribal societies and value strength and honor. Despite their fearsome reputation, orcs possess a rich culture of storytelling and shamanism.
+Abilities:
+- Berserker Rage: Orcs can enter a rage, increasing their damage output while reducing the damage they receive.
+- Tribal Wisdom: Orcs have bonuses to survival skills and can communicate with natural beasts.
+
+5. Halflings:
+Description: Halflings are nimble and small, often overlooked in the grand tales of heroes. They thrive in tight-knit communities, valuing comfort and camaraderie over glory. Halflings are excellent at stealth and evasion, making them skilled thieves and scouts.
+Abilities:
+- Stealthy: Halflings have an increased ability to move silently and remain unseen.
+- Luck of the Small: Halflings can reroll certain failed actions once per day, reflecting their lucky nature.
+
+Conclusion:
+Each race in Eldoria brings its own unique strengths, weaknesses, and cultural heritage to the adventures that await. Choose your race wisely, as it will influence your journey, interactions, and the skills you master in the world of Dungeon's Fortress.
