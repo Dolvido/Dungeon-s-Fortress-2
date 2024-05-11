@@ -4,7 +4,7 @@ from langchain.chains import LLMChain
 from utils.data_loading import load_data
 
 class QuestGenerator:
-    def __init__(self, api_key):
+    def __init__(self):
         self.llm = Ollama(model="llama3")
         self.world_history = load_data("data/lore/world_history.txt")
 

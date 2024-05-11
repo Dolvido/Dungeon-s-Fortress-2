@@ -4,7 +4,7 @@ from langchain.chains import LLMChain
 from utils.data_loading import load_data
 
 class ResourceManager:
-    def __init__(self, api_key):
+    def __init__(self):
         self.llm = OpenAI(openai_api_key=api_key)
         self.world_history = load_data("data/lore/world_history.txt")
         self.items = load_data("data/resources/items.txt")
